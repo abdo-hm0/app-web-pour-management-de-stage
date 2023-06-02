@@ -1,0 +1,12 @@
+.btn-group-sm>.btn, .btn-sm {
+    --bs-btn-padding-y: 0.7rem;
+    --bs-btn-padding-x: 0.5rem;
+    --bs-btn-font-size: 0.875rem;
+    --bs-btn-border-radius: var(--bs-border-radius-sm);
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+
